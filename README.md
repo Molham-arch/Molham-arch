@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning: [Any new technologies, frameworks, or languages]<br>🎯 Goals: [Contribute to open-source, build a personal project, land a job]<br>🎲 Fun fact: [I like football and playing chess]</p>
+<p align="left">📚 I'm currently learning: [Any new technologies, frameworks, or languages]<br>🎯 Goals: [Contribute to open-source, build a personal project, land a job]<br>🎲 Hobbies: [I like football and playing chess]</p>
 
 ###
 
